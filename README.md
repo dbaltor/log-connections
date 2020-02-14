@@ -1,6 +1,6 @@
 
 Listen for connections in a given port number and log to files all content received.
-Files named as connection_connIpAddress:connPortNumber_YYYY-mm-dd hh:mm:ss.log
+Files named as connection_IpAddress:PortNumber_YYYY-mm-dd hh:mm:ss.log
 Default port number: 8080
 
 Command line
