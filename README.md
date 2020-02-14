@@ -5,7 +5,7 @@ Default port number: 8080
 
 Command line
 ============
-./LogConn [<port number to listen to>]
+./LogConn [&lt;port number to listen to&gt;]
 
 Author: Denis Baltor
 Date : 14.02.2020
